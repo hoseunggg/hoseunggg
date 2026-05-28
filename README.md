@@ -21,6 +21,6 @@
 - 🏅 **Presidential Science Scholar** (2025-present)
 - 🏅 **SW Maestro, 17th Cohort** (2026-present)
 - 🎓 **Triple major at Sungkyunkwan University**: Mechanical Engineering, Economics, and Software
-- 🎖️ **Republic of Korea Marine Corps** (2023-2024)
+
 
 **For more details about my experience and projects, visit [My GitHub Pages](https://hoseunggg.github.io).**
