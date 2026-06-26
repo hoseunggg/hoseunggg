@@ -2,7 +2,7 @@
 # Hoseung
 
 [![Email](https://img.shields.io/badge/email-hoseunggg%40gmail.com-1f8acb?style=flat-square\&labelColor=555555)](mailto:hoseunggg@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-hoseunggg.github.io-2ea44f?style=flat-square\&labelColor=555555)](https://hoseunggg.github.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-hoseunggg.github.io-2ea44f?style=flat-square\&labelColor=555555)](www.hoseunggg.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hoseung%20Kang-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white\&labelColor=555555)](https://www.linkedin.com/in/hoseung-kang-3a0355384/?locale=ko)
 
 </div>
